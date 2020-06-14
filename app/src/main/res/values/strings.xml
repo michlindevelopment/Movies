@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_exist">Movie already exist</string>
+    <string name="rating">Rating: </string>
+    <string name="release">"Release Year: "</string>
+    <string name="genres">"Genres: "</string>
+</resources>
